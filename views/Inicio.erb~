@@ -1,0 +1,53 @@
+<HTML>
+	<HEAD>
+			<TITLE>Buscador de Fotos</TITLE>
+	</HEAD>
+	<BODY background = "http://2.bp.blogspot.com/-CqKG8F4mLz0/Tv4MxzmqbVI/AAAAAAAAHQg/rCNinzCNRLU/s1600/collage%252C+2.jpg">
+		<H1 style="COLOR: #FFFFFF; BACKGROUND-COLOR: #008DB8;border: 8px outset #008DB8">
+			<font face="sans" size = 150 >
+				<CENTER>Buscador de Fotos</CENTER>
+			</font>
+		</H1>
+		<H1 style="COLOR: #000000; BACKGROUND-COLOR: #A4A4A4;border: 8px outset #A4A4A4">
+			<font face="sans" size =4  >
+				<CENTER >Esta p&#225gina le permitir&#225 buscar fotos e im&#225genes de la p&#225gina de
+					<a title="Flickr" href="http://www.flickr.com/">Flickr
+					</a>
+					y posteriormente Twittear aquellas que desea.
+				</CENTER>
+			</font>
+		</H1>
+		<P >
+			<font face="sans" size =4 style="COLOR: #0B3861; BACKGROUND-COLOR: #FFFFFF;border: 4px outset#CEE3F6" >
+				<CENTER >Ingrese las palabras clave por las que desea buscar
+				</CENTER>
+			</font>
+		</P>
+		<P>
+		<div id="contenido">
+		<form  align="center" action="/flickr" method="post">
+			<input style="COLOR: #0B3861; BACKGROUND-COLOR: #FFFFFF;width:465px; height:30px; font-size: 12pt" type="text" name="campo1" value="Busqueda">
+			<br>
+			<P >
+				<font face="sans" size =2 style="COLOR: #0B3861; BACKGROUND-COLOR: #FFFFFF;border: 4px outset#CEE3F6" >
+					<CENTER >Ingrese la cantidad de resultados que desea obtener
+					</CENTER>
+				</font>
+			</P>
+			<input style="COLOR: #0B3861; BACKGROUND-COLOR: #FFFFFF;width:100px; height:30px; font-size: 10pt" type="text" name="campo2" value="27">
+			<br>
+			<P size="20">
+			<b><input  style="color:#0099FF;width:100px; height:30px;size:30;font-weight:bold;font-size: 12pt" type="submit" value="Buscar" size="20"></b>
+			</P>
+		</from>
+		</div>
+		</P>
+		<div valign="button">
+			<font face="sans" size =2 style="COLOR: #0099FF" >
+				<CENTER ><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				Instituto Tecnologico de Costa Rica<br>Administracion de Tecnologias de Informacion<br>Noviembre de 2012
+				</CENTER>
+			</font>
+		</div>
+	</BODY>
+</HTML>

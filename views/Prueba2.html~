@@ -1,0 +1,133 @@
+<html>
+	<i--Tabla de resultados de las busquedas-->
+	<table border="0" summary="Resultados de la busqueda" align = "center">
+		<i--Primera fila de resultados-->
+		<FONT SIZE=30><caption style="color:#003399" SIZE=30>Resultados de la busqueda</caption></FONT>
+		<tr>
+			<td>
+				<img src= <%= $Imagen1%> 
+							height="250px" 
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				
+					
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen2 %> 
+							height="250px"
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen3 %>
+							height="250px"
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src= <%= $Imagen4 %> 
+							height="250px" 
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src=<%= $Imagen5 %> 
+							height="250px"
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen6 %>
+							height="250px"
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src=<%= $Imagen7 %> 
+							height="250px" 
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src=<%= $Imagen8 %> 
+							height="250px"
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen9 %> 
+							height="250px"
+							width="250px">
+				<p>Titulo:<br>Autor:</br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.flickr.com/photos/chel55/5679464530"  data-lang="es" data-count="horizontal">Tweet<title>[Buho][Autor]</title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td colspan = "3">
+				<div align="center">
+					<button >
+						<b>Siguiente</b>
+					</button>
+				</div>
+			</td>
+		</tr>
+	</table> 
+	
+</html>	

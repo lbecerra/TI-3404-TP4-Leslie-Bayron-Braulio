@@ -1,0 +1,149 @@
+<html>
+	<i--Tabla de resultados de las busquedas-->
+	<table border="0" summary="Resultados de la busqueda" align = "center">
+		<i--Primera fila de resultados-->
+		<FONT SIZE=30><caption style="color:#003399" SIZE=30>Resultados de la busqueda1</caption></FONT>
+		<tr>
+			<td>
+				<img src= <%= $Imagen1%> 
+							height="250px" 
+							width="250px">
+				<p><%= $Titulo1%><br><%= $Autor1%></br></p>
+				
+					
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url1%> data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo1%> <%= $Autor1%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen2 %> 
+							height="250px"
+							width="250px">
+				<p><%= $Titulo2%><br><%= $Autor2%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url2%>  data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo2%> <%= $Autor2%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen3 %>
+							height="250px"
+							width="250px">
+				<p><%= $Titulo3%><br><%= $Autor3%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url= <%= $Url3%>  data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo3%> <%= $Autor3%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src= <%= $Imagen4 %> 
+							height="250px" 
+							width="250px">
+				<p><%= $Titulo4%><br><%= $Autor4%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url4%>  data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo4%> <%= $Autor4%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src=<%= $Imagen5 %> 
+							height="250px"
+							width="250px">
+				<p><%= $Titulo5%><br><%= $Autor5%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url5%>  data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo5%> <%= $Autor5%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen6 %>
+							height="250px"
+							width="250px">
+				<p><%= $Titulo6%><br><%= $Autor6%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url6%>  data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo6%> <%= $Autor6%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src=<%= $Imagen7 %> 
+							height="250px" 
+							width="250px">
+				<p><%= $Titulo7%><br><%= $Autor7%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url7%>  data-lang="es" data-count="horizontal">Tweet<title> <%= $Titulo7%> <%= $Autor7%> </title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src=<%= $Imagen8 %> 
+							height="250px"
+							width="250px">
+				<p><%= $Titulo8%><br><%= $Autor8%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url8%>  data-lang="es" data-count="horizontal">Tweet<title><%= $Titulo8%> <%= $Autor8%></title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+			<td>
+				<img src= <%= $Imagen9 %> 
+							height="250px"
+							width="250px">
+				<p><%= $Titulo9%><br><%= $Autor9%></br></p>
+				<div align="center">
+					<i--Api de Twitter -->
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url=<%= $Url9%>  data-lang="es" data-count="horizontal">Tweet<title><%= $Titulo9%> <%= $Autor9%></title></a>
+
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</td>
+		</tr>
+		<script>
+		function f_Cmb(){		
+		document.frm.action="/siguiente";
+		document.frm.submit();
+					}
+
+		function f_Cmb1(){		
+		document.frm.action="/anterior";
+		document.submit();
+				}
+		</script>
+		<tr>
+			<td colspan = "3">
+				<div id="contenido" align="center">
+					<div id="contenido">
+						<form name="frm" id="frm" action="" method="post">
+							<input name="bt1" type="submit" value="Siguiente" onclick="f_Cmb();" />
+							<input name="bt2" type="submit" value="Atras" onclick="f_Cmb1();" />
+						</from>
+					</div>
+				</div>
+			</td>
+			
+                        
+		</tr>
+	</table> 
+	
+</html>	

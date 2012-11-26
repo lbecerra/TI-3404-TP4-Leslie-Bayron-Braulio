@@ -1,0 +1,25 @@
+<HTML>
+	<HEAD>
+			<TITLE>Calculadora en Ruby "Resulatdo"</TITLE>
+	</HEAD>
+	<BODY>
+		<H3><CENTER>Ejemplo de calculadora en Ruby con HTML</CENTER></H3>
+		<HR>
+			Este, es un ejemplo de una calculadora hecha en el leguaje
+			de programacion Ruby con una interfaz hecha en HTML, esta pagina
+			muestra el resulatdo de la pagina enterior.
+		<HR>
+		<P>
+			El resultado de la suma es <%= $rsuma %>
+		</P>
+		<P>
+			El resultado de la resta es <%= $rresta %>
+		</P>
+		<P>
+			El resultado de la suma es <%= $rmulti %>
+		</P>
+		<P>
+			El resultado de la suma es <%= $rdivid %>
+		</P>
+	</BODY>
+</HTML>

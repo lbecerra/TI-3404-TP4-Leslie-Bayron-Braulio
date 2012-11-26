@@ -1,0 +1,23 @@
+<HTML>
+	<HEAD>
+			<TITLE>Buscador de Fotos Flickr</TITLE>
+	</HEAD>
+	<BODY>
+		<H3><CENTER>Buscador de Fotos Flick</CENTER></H3>
+		<HR>
+			Este es un buscador de fotos de la red social flickr
+		<HR>
+		<P>Inicio de la interfaz.</P>
+		<P>
+		<div id="contenido">
+		<form  action="/flickr" method="post">
+			<input type="text" name="campo1" value="Nombre de Usuario" size="30">
+			<br>
+			<P>
+			<input type="submit" value="Buscar">
+			</P>
+		</from>
+		</div>
+		</P>
+	</BODY>
+</HTML>

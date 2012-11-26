@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Resultados de la busqueda (Prueba)</title>
+	</head>
+
+	<body>
+		<img src= <%= $a %> 
+			height="200px" 
+			width="200px">
+		<p>Titulo<br>Autor</br></p>
+		<img src= <%= $b %>
+			height="200px" 
+			width="200px">
+		
+	</body>
+</html>	

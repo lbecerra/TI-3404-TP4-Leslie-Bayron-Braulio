@@ -1,0 +1,27 @@
+<HTML>
+	<HEAD>
+			<TITLE>CALCULADORA</TITLE>
+	</HEAD>
+	<BODY>
+		<H3><CENTER>Ejemplo de calculadora en Ruby con HTML de LES</CENTER></H3>
+		<HR>
+			Este, es un ejemplo de una calculadora hecha en el leguaje
+			de programacion Ruby con una interfaz hecha en HTML, el archivo
+			HTML esta en un formato  de tipo ".erb".
+		<HR>
+		<P>Inicio de la interfaz.</P>
+		<P>
+		<div id="contenido">
+		<form  action="/calculos1" method="post">
+			<input type="text" name="campo1" value="Numero 1" size="30">
+			<br>
+			<input type="text" name="campo2" value="Numero 2" size="30">
+			<br>
+			<P>
+			<input type="submit" value="Enviar informacion">
+			</P>
+		</from>
+		</div>
+		</P>
+	</BODY>
+</HTML>
